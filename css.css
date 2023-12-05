@@ -15,6 +15,7 @@ p{
     width: 100px;
     height: 100px;
     align-self: flex-start;
+    background-image: url(./logo.png);
 }
 .nav {
     width: 500px;
@@ -22,7 +23,7 @@ p{
     Align-self: flex-end;
 }
 .content {
-    width: 80vw;
+    width: 80vh;
     height: 100vh;
     backround-color: #54458cff;
 }
